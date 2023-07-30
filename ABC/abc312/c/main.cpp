@@ -24,6 +24,6 @@ int main() {
         else l = mid;
     }
 
-    cout << r << endl;
+    cout << l+1 << endl;
     return 0;
 }
