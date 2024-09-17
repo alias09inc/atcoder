@@ -3,8 +3,9 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/ac-library/",
-                "${workspaceFolder}/**"
+                "/home/kenshi_0334/atcoder/ac-library",
+                "${workspaceFolder}/**",
+                "/usr/include/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
