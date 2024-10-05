@@ -3,14 +3,14 @@
         {
             "name": "Linux",
             "includePath": [
-                "/home/kenshi_0334/atcoder/ac-library",
+                "${workspaceFolder}/ac-library",
                 "${workspaceFolder}/**",
                 "/usr/include/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
             "cStandard": "gnu17",
-            "cppStandard": "gnu++17",
+            "cppStandard": "c++23",
             "intelliSenseMode": "linux-gcc-x64"
         }
     ],
